@@ -7,7 +7,7 @@ html, body {
 
 #map {
     height: 75vh;
-    width: 80vw;
+    width: 100vw;
 	position: relative;
     margin: left; /* Center the map horizontally */
 }
