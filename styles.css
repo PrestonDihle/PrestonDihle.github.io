@@ -6,8 +6,8 @@ html, body {
 }
 
 #map {
-    height: 75vh;
-    width: 95vw;
+    height: 70vh;
+    width: 90vw;
 	position: relative;
     margin: left; /* Center the map horizontally */
 }
